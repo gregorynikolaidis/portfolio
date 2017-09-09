@@ -1,3 +1,5 @@
 # Portfolio Serverless Tutorial
 
-Serverless tutorial follow along
+Serverless tutorial follow along.
+
+## Notes
